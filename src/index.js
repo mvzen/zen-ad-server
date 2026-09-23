@@ -41,7 +41,7 @@ export default {
 <VAST version="3.0">
   <Ad id="${ad.id}">
     <InLine>
-      <AdSystem version="1.0">MVZen Mock Ad Server</AdSystem>
+      <AdSystem version="1.0">Zen Ad Server</AdSystem>
       <AdTitle>${ad.title}</AdTitle>
       <Impression><![CDATA[https://ads.mvzen.com/tracking/impression?adId=${ad.id}]]></Impression>
       <Creatives>
